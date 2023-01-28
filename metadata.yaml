@@ -1,11 +1,16 @@
 _repo: Rabok_69771
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molnár, Ferencz
     gutenberg_agent_id: '55412'
     url: http://www.gutenberg.org/2009/agents/55412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69771#Rabok
 gutenberg_issued: '2023-01-11'
 identifiers:
   gutenberg: '69771'
